@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Volkan
 - 🔭 I’m currently working on Wordpress Projects
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on API projects and intergrations
