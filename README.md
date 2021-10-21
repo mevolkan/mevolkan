@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Wordpress Projects
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on API projects and intergrations
+- 🤔 I’m looking for help with Devops
+- 💬 Ask me about Wordpress
 <!--
 **mevolkan/mevolkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
