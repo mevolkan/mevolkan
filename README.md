@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Volkan
-- 🔭 I’m currently working on Wordpress projects, data collection platform on mapbox/leaflet
+- 🔭 I’m currently working on Wordpress, Node, React
 - 🌱 I’m currently learning React, Cybersecurity
-- 👯 I’m looking to collaborate on APIS, maps and data visualisation
+- 👯 I’m looking to collaborate on APIs, maps and data visualisation
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Wordpress, acessibility, security
 <!--
