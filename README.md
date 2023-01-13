@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Volkan
 - 🔭 I’m currently working on Wordpress, Node, React
-- 🌱 I’m currently learning React, Cybersecurity
+- 🌱 I’m currently mastering Front-End, Node JS, Express
 - 👯 I’m looking to collaborate on APIs, maps and data visualisation
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Wordpress, acessibility, security
